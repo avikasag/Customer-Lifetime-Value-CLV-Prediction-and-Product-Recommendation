@@ -13,7 +13,7 @@ This project aims to predict Customer Lifetime Value (CLV) and provide product r
 **Data Source:** Excel file containing online retail sales data
 
 ## Dataset
-The dataset used in this project is `Online_Retail_II.xlsx`, specifically from the **Year 2010-2011** sheet. The data contains information about customer purchases, including:
+The dataset used in this project is `Online_Retail_II.xlsx`(Note: Due to file size constraint on GitHub, I am not able to attach it here. Feel free to drop an email aavikas01@gmail.com to get the file for practice.) , specifically from the **Year 2010-2011** sheet. The data contains information about customer purchases, including:
 * Customer ID
 * Product details (StockCode, Description)
 * Quantity purchased
